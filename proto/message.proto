@@ -1,0 +1,5 @@
+package message;
+
+message Message {
+    repeated int32 id = 1;
+}
