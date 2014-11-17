@@ -6,11 +6,11 @@ Minimal example of using CMake to manage C++ project with protobuf.
 Build
 ======================
 
-  $ mkdir build
-  $ cd build
-  $ cmake ..
-  $ make
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
 
 Run
 ======================
-  $ ./main
+    $ ./main
